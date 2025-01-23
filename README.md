@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**VictorMGCYT/VictorMGCYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! 👋 Soy Víctor Manuel González Cabrera
+💻 Desarrollador web apasionado por el código y el aprendizaje constante. 
+📚 Actualmente aprendiendo React y Node.js.
 
-Here are some ideas to get you started:
+## 📊 Mis estadísticas de GitHub:
+![Tu nombre de usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-nombre-usuario&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas:
+- **Lenguajes**: JavaScript, C#, HTML, CSS
+- **Frameworks**: React, Bootstrap
+- **Otras habilidades**: Git, SQL, Node.js
+
+## 🌟 Contacto:
+- 📧 [Correo](victormgc2003@gmail.com)
+- 🌐 [Sitio web]((https://victormgcyt.github.io/Portafolio/))
+
