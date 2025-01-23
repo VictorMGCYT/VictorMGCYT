@@ -4,7 +4,7 @@
 📚 Actualmente aprendiendo React y Node.js.
 
 ## 📊 Mis estadísticas de GitHub:
-![Tu nombre de usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=tu-nombre-usuario&show_icons=true&theme=radical)
+![Tu nombre de usuario GitHub stats](https://github-readme-stats.vercel.app/api?username=victormgcyt&show_icons=true&theme=radical)
 
 ## 🛠️ Tecnologías y herramientas:
 - **Lenguajes**: JavaScript, C#, HTML, CSS
