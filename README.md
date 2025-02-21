@@ -1,7 +1,7 @@
 
 # ¡Hola! 👋 Soy Víctor Manuel González Cabrera
 💻 Desarrollador web apasionado por el código y el aprendizaje constante. 
-📚 Actualmente aprendiendo React y Node.js.
+📚 Actualmente aprendiendo React y NestJS
 
 ## 📊 Mis estadísticas de GitHub:
 <p>
@@ -14,8 +14,8 @@
 
 
 ## 🛠️ Tecnologías y herramientas:
-- **Lenguajes**: JavaScript, C#, HTML, CSS
-- **Frameworks**: React, Bootstrap
+- **Lenguajes**: JavaScript, C#, HTML, CSS, Typescript
+- **Frameworks**: React, Bootstrap, NestJS, ExpressJS
 - **Otras habilidades**: Git, SQL, Node.js
 
 ## 🌟 Contacto:
