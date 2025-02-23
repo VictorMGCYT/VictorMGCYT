@@ -1,6 +1,7 @@
 
 # ¡Hola! 👋 Soy Víctor Manuel González Cabrera
 💻 Desarrollador web apasionado por el código y el aprendizaje constante. 
+
 📚 Actualmente aprendiendo React y NestJS
 
 ## 📊 Mis estadísticas de GitHub:
