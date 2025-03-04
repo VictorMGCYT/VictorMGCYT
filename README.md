@@ -34,7 +34,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
   </div>
-- **Frameworks**: React, Bootstrap, NestJS, ExpressJS
+  <br>
+  <br>
+- **Frameworks**: React, NestJS, Bootstrap, ExpressJS
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     <img width="12" />
@@ -45,6 +47,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nestjs logo"  />
     <img width="12" />
   </div>
+  <br>
+  <br>
 - **Otras habilidades**: Git, MySQL, PostgreSQL, Node.js, MongoDB
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
