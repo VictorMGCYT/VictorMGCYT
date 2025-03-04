@@ -35,7 +35,7 @@
     <img width="12" />
   </div>
   <br>
-- **Frameworks**: React, NestJS, Bootstrap, ExpressJS
+- **Frameworks**: React, NestJS, Bootstrap, ExpressJS, Tailwindcss
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
     <img width="12" />
@@ -44,6 +44,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="nestjs logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nestjs logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="nestjs logo"  />
     <img width="12" />
   </div>
   <br>
