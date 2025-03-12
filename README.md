@@ -11,13 +11,13 @@
 </div>
 
 ## 📊 Mis estadísticas de GitHub:
-![Profile Views](https://komarev.com/ghpvc/?username=BenjaminCorona&color=blue)
+
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMGCYT&show_icons=true&locale=en" alt="VictorMGCYT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMGCYT&show_icons=true&locale=en&theme=transparent" alt="VictorMGCYT" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMGCYT&show_icons=true&locale=en&layout=compact" alt="VictorMGCYT" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMGCYT&show_icons=true&locale=en&layout=compact&theme=transparent" alt="VictorMGCYT" />
 </p>
 
 
