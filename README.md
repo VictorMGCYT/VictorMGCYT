@@ -1,70 +1,105 @@
-
 # ¡Hola! 👋 Soy Víctor Manuel González Cabrera
-💻 Desarrollador web apasionado por el código y el aprendizaje constante. 
 
-📚 Actualmente aprendiendo React y NestJS
+💻 Soy un desarrollador web apasionado por construir soluciones útiles, aprender tecnologías nuevas y mejorar cada día.  
+🎯 Me especializo en el desarrollo fullstack con **React** y **NestJS**, y tengo experiencia creando desde aplicaciones web hasta escritorios con **Electron**.
+
+---
+
+## 🚀 Actualmente enfocado en:
+- Desarrollo fullstack con **React**, **NestJS** y **TypeORM**
+- Estilos modernos con **TailwindCSS** y **shadcn/ui**
+- Contenerización con **Docker**
+- Apps de escritorio con **Electron**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### 🧠 Lenguajes
+- **Lenguajes**: Javascript, Typescript, C#, HTML5, CSS3
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C#" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS" />
 </div>
 
-## 📊 Mis estadísticas de GitHub:
+### ⚙️ Frameworks y Librerías
+- **Frameworks**: React, NestJS, Express, Bootstrap, Tailwindcss
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" alt="NestJS" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" alt="TailwindCSS" />
+</div>
+
+### 🧩 Herramientas y tecnologías
+- **Frameworks**: Docker, Git, Node.js, Electron
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="35" alt="Electron" />
+</div>
+
+### 🗄️ Bases de datos y ORM
+- **Frameworks**: MySQL, PostgreSQL, MongoDB, TypeORM
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="PostgreSQL" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" alt="MongoDB" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/TypeORM-E83524?style=for-the-badge&logo=typeorm&logoColor=white" height="25" alt="TypeORM" />
+</div>
+
+---
+
+## 📊 GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMGCYT&show_icons=true&locale=en&theme=transparent" alt="VictorMGCYT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VictorMGCYT&show_icons=true&theme=transparent" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMGCYT&show_icons=true&locale=en&layout=compact&theme=transparent" alt="VictorMGCYT" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VictorMGCYT&layout=compact&theme=transparent" />
 </p>
 
+---
 
-## 🛠️ Tecnologías y herramientas:
-- **Lenguajes**: Javascript, Typescript, C#, CSS, HTML
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-  </div>
-  <br>
-- **Frameworks**: React, NestJS, Bootstrap, ExpressJS, Tailwindcss
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="nestjs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="nestjs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="nestjs logo"  />
-    <img width="12" />
-  </div>
-  <br>
-- **Otras habilidades**: Git, MySQL, PostgreSQL, Node.js, MongoDB
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-    <img width="12" />
-  </div>
+## 💼 Proyecto destacado
 
-## 🌟 Contacto:
-- 📧 [Correo](victormgc2003@gmail.com)
-- 🌐 [Sitio web](https://victormgcyt.github.io/Portafolio/)
+- 🛒 [Sistema de Punto de Venta]([https://github.com/VictorMGCYT/POS-System](https://github.com/VictorMGCYT/POS-frontend)): Aplicación para tienditas, desarrollada con NestJS, React y PostgreSQL.
 
+---
+
+## 📫 Contacto
+
+[![Email](https://img.shields.io/badge/Correo-victormgc2003@gmail.com-blue?style=flat&logo=gmail)](mailto:victormgc2003@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-000?style=flat&logo=githubpages)](https://victormgcyt.github.io/Portafolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_González-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/victormgc/](https://www.linkedin.com/in/victor-manuel-gonz%C3%A1lez-cabrera-9b0121337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+
+---
+
+## 🙋‍♂️ Sobre mí
+
+Soy de México 🇲🇽, actualmente terminando mi carrera universitaria. Me gusta aprender creando cosas reales, resolver problemas con tecnología y ayudar a otros desarrolladores cuando puedo.  
+Siempre estoy buscando mejorar y aprender más sobre el mundo del desarrollo web y software.
+
+---
+
+🌟 *Gracias por visitar mi perfil. ¡Estoy abierto a colaborar en proyectos interesantes!*
