@@ -5,18 +5,9 @@
 
 ---
 
-## 🚀 Actualmente enfocado en:
-- Desarrollo fullstack con **React**, **NestJS** y **TypeORM**
-- Estilos modernos con **TailwindCSS** y **shadcn/ui**
-- Contenerización con **Docker**
-- Apps de escritorio con **Electron**
-
----
-
 ## 🛠️ Tecnologías y herramientas
 
 ### 🧠 Lenguajes
-- **Lenguajes**: Javascript, Typescript, C#, HTML5, CSS3
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img width="10" />
@@ -30,21 +21,19 @@
 </div>
 
 ### ⚙️ Frameworks y Librerías
-- **Frameworks**: React, NestJS, Express, Bootstrap, Tailwindcss
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" alt="NestJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="35" alt="NestJS" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="Express" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="35" alt="Bootstrap" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="35" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" alt="TailwindCSS" />
 </div>
 
 ### 🧩 Herramientas y tecnologías
-- **Frameworks**: Docker, Git, Node.js, Electron
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="Docker" />
   <img width="10" />
@@ -56,7 +45,6 @@
 </div>
 
 ### 🗄️ Bases de datos y ORM
-- **Frameworks**: MySQL, PostgreSQL, MongoDB, TypeORM
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL" />
   <img width="10" />
@@ -84,6 +72,14 @@
 ## 💼 Proyecto destacado
 
 - 🛒 [Sistema de Punto de Venta]([https://github.com/VictorMGCYT/POS-System](https://github.com/VictorMGCYT/POS-frontend)): Aplicación para tienditas, desarrollada con NestJS, React y PostgreSQL.
+
+---
+
+## 🚀 Actualmente enfocado en:
+- Desarrollo fullstack con **React**, **NestJS** y **TypeORM**
+- Estilos modernos con **TailwindCSS** y **shadcn/ui**
+- Contenerización con **Docker**
+- Apps de escritorio con **Electron**
 
 ---
 
