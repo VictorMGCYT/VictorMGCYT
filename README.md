@@ -1,7 +1,7 @@
 # ¡Hola! 👋 Soy Víctor Manuel González Cabrera
 
 💻 Soy un desarrollador web apasionado por construir soluciones útiles, aprender tecnologías nuevas y mejorar cada día.  
-🎯 Me especializo en el desarrollo fullstack con **React** y **NestJS**, y tengo experiencia creando desde aplicaciones web hasta escritorios con **Electron**.
+🎯 Me especializo en el desarrollo fullstack con **React** y **NestJS**, y tengo experiencia creando desde aplicaciones web y de escritorio con **Electron**.
 
 ---
 
@@ -87,7 +87,7 @@
 
 [![Email](https://img.shields.io/badge/Correo-victormgc2003@gmail.com-blue?style=flat&logo=gmail)](mailto:victormgc2003@gmail.com)
 [![Portafolio](https://img.shields.io/badge/Portafolio-Web-000?style=flat&logo=githubpages)](https://victormgcyt.github.io/Portafolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_González-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/victormgc/](https://www.linkedin.com/in/victor-manuel-gonz%C3%A1lez-cabrera-9b0121337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Víctor_González-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-manuel-gonz%C3%A1lez-cabrera-9b0121337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
